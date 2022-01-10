@@ -6,6 +6,7 @@ pkg
 Gemfile.lock
 .DS_Store
 doc/tags
+tags
 vendor
 gopath
 *.zwc
